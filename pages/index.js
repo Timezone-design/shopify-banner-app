@@ -8,7 +8,7 @@ const Index = () => (
       <EmptyState // Empty state component
         heading="Banner Message"
         action={{
-          content: 'Edit',
+          content: 'Edit your banner.',
           onAction: () => this.setState({ open: true }),
         }}
         image={img}
