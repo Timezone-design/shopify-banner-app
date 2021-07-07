@@ -11,7 +11,7 @@ const Index = () => (
           <div class="col">
             <div class="container"></div>
           </div>
-          <div class="col">jhjffdfdfdfghfhf</div>
+          <div class="col">jhjffddddfdfdfghfhf</div>
         </div>
       </div>
     </Layout>
